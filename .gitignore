@@ -21,3 +21,5 @@ doc/api/
 *.js.map
 .idea/
 .vscode/
+.DS_Store
+/*/pubspec.lock
