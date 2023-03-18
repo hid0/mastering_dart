@@ -11,7 +11,7 @@ void main(List<String> arguments) {
 }
 ```
 
-## open project in your IDE or Text Editor
+## open up your project in your IDE or Text Editor
 
 ```running like this```
 
