@@ -1,4 +1,10 @@
 void main(List<String> args) {
-  const yourAge = 63;
-  print(yourAge);
+  var value = getValue();
+  print('display value');
+  print(value);
+}
+
+String getValue() {
+  print('getValue called');
+  return 'Faiz Hid';
 }

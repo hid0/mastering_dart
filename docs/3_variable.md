@@ -47,3 +47,14 @@ void main(List<String> args) {
   print(yourAge);
 }
 ```
+
+## ```late```
+* In Dart, by default, variables will be declared when they are created.
+* But sometimes there are cases where we want the variable to be declared later, when it is accessed, if it is not accessed, it does not need to be declared.
+* To do this, we can add the keyword late at the beginning of the variable declaration
+
+#####<b>```with late```</b>
+![variable](../resource/img/use%20late.png)
+
+#####<b>```without late```</b>
+![variable](../resource/img/without%20late.png)

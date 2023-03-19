@@ -7,7 +7,7 @@
 1. [Create Dart App](docs/1_create_app.md)
 2. [Hello World Program](resource/apps/basic_dart/README.md)
 3. [Variable](docs/3_variable.md)
-4. [Comment]
+4. [Comment](docs/4_comment.md)
 5. [Number]
 6. [Boolean]
 7. [String]
