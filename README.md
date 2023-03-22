@@ -9,8 +9,8 @@
 3. [Variable](docs/3_variable.md)
 4. [Comment](docs/4_comment.md)
 5. [Number](docs/5_number.md)
-6. [Boolean]()
-7. [String]()
+6. [Boolean](docs/6_bool.md)
+7. [String](docs/7_string.md)
 8. [Dynamic]()
 9. [Data Type Conversion]()
 10. [Arithmetic Operator]()
@@ -59,4 +59,4 @@
   * Kuldii Project => https://www.youtube.com/@KuldiiProject
 
 * Powerpoint [Bahasa]:
-  * [Slide](https://docs.google.com/presentation/d/1h2TPQtSXoPaLlP9kXwLJWUUr4KLbdWtOBiWvDl0DB1E/edit?usp=sharing)
+  * [Slide](https://docs.google.com/presentation/d/1h2TPQtSXoPaLlP9kXwLJWUUr4KLbdWtOBiWvDl0DB1E/view?usp=sharing)
